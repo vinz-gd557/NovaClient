@@ -1,0 +1,14 @@
+[
+{
+  "modid": "novaclient",
+  "name": "NovaClient",
+  "description": "Custom utility client for Minecraft 1.8.9. Press Right Shift in-game to open the mod menu.",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "authorList": ["You"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
